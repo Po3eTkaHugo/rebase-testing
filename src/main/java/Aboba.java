@@ -1,5 +1,5 @@
 public class Aboba {
-    public String sendAboba() {
+    public static String sendAboba() {
         return "Aboba";
     }
 }
