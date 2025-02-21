@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Also");
         System.out.println("Also");
         System.out.println("Also");
+        System.out.println("Also");
         System.out.println("Finish");
     }
 }
