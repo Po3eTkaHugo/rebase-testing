@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Start");
         System.out.println("r02 start");
         System.out.println("r02 doing");
+        System.out.println("r02 also");
         System.out.println("r02 finish");
         System.out.println("Finish");
     }
